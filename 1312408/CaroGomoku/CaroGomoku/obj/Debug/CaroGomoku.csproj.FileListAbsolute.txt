@@ -1,0 +1,13 @@
+D:\Users\luu\Downloads\1312408\CaroGomoku\CaroGomoku\bin\Debug\CaroGomoku.exe.config
+D:\Users\luu\Downloads\1312408\CaroGomoku\CaroGomoku\bin\Debug\CaroGomoku.exe
+D:\Users\luu\Downloads\1312408\CaroGomoku\CaroGomoku\bin\Debug\CaroGomoku.pdb
+D:\Users\luu\Downloads\1312408\CaroGomoku\CaroGomoku\obj\Debug\CaroGomoku.csprojResolveAssemblyReference.cache
+D:\Users\luu\Downloads\1312408\CaroGomoku\CaroGomoku\obj\Debug\MainWindow.baml
+D:\Users\luu\Downloads\1312408\CaroGomoku\CaroGomoku\obj\Debug\MainWindow.g.cs
+D:\Users\luu\Downloads\1312408\CaroGomoku\CaroGomoku\obj\Debug\App.g.cs
+D:\Users\luu\Downloads\1312408\CaroGomoku\CaroGomoku\obj\Debug\CaroGomoku_MarkupCompile.cache
+D:\Users\luu\Downloads\1312408\CaroGomoku\CaroGomoku\obj\Debug\CaroGomoku.g.resources
+D:\Users\luu\Downloads\1312408\CaroGomoku\CaroGomoku\obj\Debug\CaroGomoku.Properties.Resources.resources
+D:\Users\luu\Downloads\1312408\CaroGomoku\CaroGomoku\obj\Debug\CaroGomoku.csproj.GenerateResource.Cache
+D:\Users\luu\Downloads\1312408\CaroGomoku\CaroGomoku\obj\Debug\CaroGomoku.exe
+D:\Users\luu\Downloads\1312408\CaroGomoku\CaroGomoku\obj\Debug\CaroGomoku.pdb
