@@ -14,6 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Newtonsoft.Json.Linq;
 using Quobject.SocketIoClientDotNet.Client;
+using System.Configuration;
 
 
 namespace CaroGomoku
@@ -599,6 +600,7 @@ namespace CaroGomoku
                 PrintMessage("Too short name!", "Server");
             else
             {
+                string connectionString = ConfigurationManager.ConnectionStrings["Conn"].ConnectionString;
                 flag = true;
                 main_panel.Children.Clear();
                 Create_ArrayBtn();
@@ -607,7 +609,7 @@ namespace CaroGomoku
                 StackPanel msg_panel = new StackPanel();
                 name = txt_name.Text;
                 pre_name = txt_name.Text;
-                var socket = IO.Socket("ws://gomoku-lajosveres.rhcloud.com:8000");
+                var socket = IO.Socket(connectionString);
                 s = socket;
                 socket.On(Socket.EVENT_CONNECT, () =>
                 {
